@@ -1,0 +1,17 @@
+package lab3_my_solution;
+
+public class Punto {
+	private double x;
+	private double y;
+	private double z;
+	
+	public Punto (double x, double y, double z) {
+		this.x = x;
+		this.y = y;
+		this.z = z;
+	}
+
+	public String getCordinate() {
+		return "(" + x + "," + y + "," + z +")";
+	}
+}

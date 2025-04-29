@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\Programmazione\Java\Mdp-java\Laboratory\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+895109427.index
+743417665.index

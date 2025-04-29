@@ -1,0 +1,15 @@
+package lab3_my_solution;
+
+public class Segmento {
+	private Punto start;
+	private Punto end;
+	
+	public Segmento (Punto start, Punto end) {
+		this.start = start;
+		this.end = end;
+	}
+	
+	public String ToString() {
+		return this.start.getCordinate() + " " + this.end.getCordinate();
+	}
+}
